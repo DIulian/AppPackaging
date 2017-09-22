@@ -1,2 +1,3 @@
 # AppPackaging
-Application packaging resource
+Application packaging resources
+Scripts, Recipes and other applicaton packaging resources.
